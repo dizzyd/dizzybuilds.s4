@@ -163,6 +163,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Advanced XRay",
    "fileID": 2876885,
    "projectID": 256256,
@@ -331,12 +332,6 @@
    "required": true
   },
   {
-   "desc": "Phosphor (Forge)",
-   "fileID": 2919811,
-   "projectID": 318255,
-   "required": true
-  },
-  {
    "desc": "Crafting Tweaks",
    "fileID": 2863719,
    "projectID": 233071,
@@ -352,6 +347,42 @@
    "desc": "Travel Bag",
    "fileID": 2956279,
    "projectID": 334386,
+   "required": true
+  },
+  {
+   "desc": "Cooking for Blockheads",
+   "fileID": 2905554,
+   "projectID": 231484,
+   "required": true
+  },
+  {
+   "desc": "Rainbow Blocks",
+   "fileID": 2956599,
+   "projectID": 383175,
+   "required": true
+  },
+  {
+   "desc": "Pokecube AIO",
+   "fileID": 2957656,
+   "projectID": 285121,
+   "required": true
+  },
+  {
+   "desc": "Botany Pots",
+   "fileID": 2939783,
+   "projectID": 353928,
+   "required": true
+  },
+  {
+   "desc": "Grindr",
+   "fileID": 2937080,
+   "projectID": 357755,
+   "required": true
+  },
+  {
+   "desc": "Bookshelf",
+   "fileID": 2945789,
+   "projectID": 228525,
    "required": true
   }
  ],
