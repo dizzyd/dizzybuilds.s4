@@ -1,0 +1,372 @@
+{
+ "files": [
+  {
+   "desc": "jei",
+   "fileID": 2944279,
+   "projectID": 238222,
+   "required": true
+  },
+  {
+   "desc": "controlling",
+   "fileID": 2929451,
+   "projectID": 250398,
+   "required": true
+  },
+  {
+   "desc": "reauth",
+   "fileID": 2950766,
+   "projectID": 237701,
+   "required": true
+  },
+  {
+   "desc": "natures-aura",
+   "fileID": 2949119,
+   "projectID": 306626,
+   "required": true
+  },
+  {
+   "desc": "colossal-chests",
+   "fileID": 2952261,
+   "projectID": 237875,
+   "required": true
+  },
+  {
+   "desc": "cyclops-core",
+   "fileID": 2930009,
+   "projectID": 232758,
+   "required": true
+  },
+  {
+   "desc": "engineers-decor",
+   "fileID": 2952339,
+   "projectID": 313866,
+   "required": true
+  },
+  {
+   "desc": "engineers-tools",
+   "fileID": 2952342,
+   "projectID": 319716,
+   "required": true
+  },
+  {
+   "desc": "storage-drawers",
+   "fileID": 2887674,
+   "projectID": 223852,
+   "required": true
+  },
+  {
+   "desc": "Pretty Pipes",
+   "fileID": 2955217,
+   "projectID": 376737,
+   "required": true
+  },
+  {
+   "desc": "Corail Tombstone",
+   "fileID": 2956365,
+   "projectID": 243707,
+   "required": true
+  },
+  {
+   "desc": "YUNG's Better Caves",
+   "fileID": 2954683,
+   "projectID": 340583,
+   "required": true
+  },
+  {
+   "desc": "Quark",
+   "fileID": 2956472,
+   "projectID": 243121,
+   "required": true
+  },
+  {
+   "desc": "Morpheus",
+   "fileID": 2898972,
+   "projectID": 69118,
+   "required": true
+  },
+  {
+   "desc": "Fast Leaf Decay",
+   "fileID": 2922884,
+   "projectID": 230976,
+   "required": true
+  },
+  {
+   "desc": "Refined Storage",
+   "fileID": 2943760,
+   "projectID": 243076,
+   "required": true
+  },
+  {
+   "desc": "Torchmaster",
+   "fileID": 2873677,
+   "projectID": 254268,
+   "required": true
+  },
+  {
+   "desc": "Nature's Compass",
+   "fileID": 2893530,
+   "projectID": 252848,
+   "required": true
+  },
+  {
+   "desc": "Comforts",
+   "fileID": 2946845,
+   "projectID": 276951,
+   "required": true
+  },
+  {
+   "desc": "The One Probe",
+   "fileID": 2913861,
+   "projectID": 245211,
+   "required": true
+  },
+  {
+   "desc": "Serene Seasons",
+   "fileID": 2936481,
+   "projectID": 291874,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Calculation",
+   "fileID": 2897376,
+   "projectID": 242223,
+   "required": true
+  },
+  {
+   "desc": "Simply Light",
+   "fileID": 2870484,
+   "projectID": 300331,
+   "required": true
+  },
+  {
+   "desc": "Nether Portal Spread",
+   "fileID": 2906394,
+   "projectID": 342097,
+   "required": true
+  },
+  {
+   "desc": "Ropes Mod!",
+   "fileID": 2888934,
+   "projectID": 358557,
+   "required": true
+  },
+  {
+   "desc": "Gardening Tools",
+   "fileID": 2875913,
+   "projectID": 351990,
+   "required": true
+  },
+  {
+   "desc": "Persistent Bits",
+   "fileID": 2911732,
+   "projectID": 245681,
+   "required": true
+  },
+  {
+   "desc": "Advanced XRay",
+   "fileID": 2876885,
+   "projectID": 256256,
+   "required": true
+  },
+  {
+   "desc": "MixinBootstrap",
+   "fileID": 2939224,
+   "projectID": 357178,
+   "required": true
+  },
+  {
+   "desc": "Immersive Portals (for Forge)",
+   "fileID": 2952940,
+   "projectID": 355440,
+   "required": true
+  },
+  {
+   "desc": "StepUp",
+   "fileID": 2952432,
+   "projectID": 239236,
+   "required": true
+  },
+  {
+   "desc": "Lightest Lamps",
+   "fileID": 2941185,
+   "projectID": 325716,
+   "required": true
+  },
+  {
+   "desc": "Macaw's Windows",
+   "fileID": 2929722,
+   "projectID": 363569,
+   "required": true
+  },
+  {
+   "desc": "Macaw's Bridges",
+   "fileID": 2894370,
+   "projectID": 351725,
+   "required": true
+  },
+  {
+   "desc": "Macaw's Roofs",
+   "fileID": 2879571,
+   "projectID": 352039,
+   "required": true
+  },
+  {
+   "desc": "Powah!",
+   "fileID": 2941416,
+   "projectID": 352656,
+   "required": true
+  },
+  {
+   "desc": "Lollipop",
+   "fileID": 2941403,
+   "projectID": 347954,
+   "required": true
+  },
+  {
+   "desc": "TrashSlot",
+   "fileID": 2873613,
+   "projectID": 235577,
+   "required": true
+  },
+  {
+   "desc": "Water Strainer",
+   "fileID": 2892733,
+   "projectID": 246939,
+   "required": true
+  },
+  {
+   "desc": "Macaw's Doors",
+   "fileID": 2940140,
+   "projectID": 378646,
+   "required": true
+  },
+  {
+   "desc": "CleanView",
+   "fileID": 2938653,
+   "projectID": 226889,
+   "required": true
+  },
+  {
+   "desc": "Double Doors",
+   "fileID": 2926095,
+   "projectID": 348831,
+   "required": true
+  },
+  {
+   "desc": "Fish Traps",
+   "fileID": 2887948,
+   "projectID": 323927,
+   "required": true
+  },
+  {
+   "desc": "Stronghold Compass",
+   "fileID": 2854915,
+   "projectID": 338643,
+   "required": true
+  },
+  {
+   "desc": "Healing Campfire",
+   "fileID": 2933583,
+   "projectID": 342623,
+   "required": true
+  },
+  {
+   "desc": "Venture",
+   "fileID": 2931676,
+   "projectID": 376300,
+   "required": true
+  },
+  {
+   "desc": "Craftable Saddles",
+   "fileID": 2909502,
+   "projectID": 247093,
+   "required": true
+  },
+  {
+   "desc": "Respawnable Pets",
+   "fileID": 2925420,
+   "projectID": 319582,
+   "required": true
+  },
+  {
+   "desc": "Productive Bees",
+   "fileID": 2957473,
+   "projectID": 377897,
+   "required": true
+  },
+  {
+   "desc": "Buzzier Bees",
+   "fileID": 2920221,
+   "projectID": 355458,
+   "required": true
+  },
+  {
+   "desc": "Enhanced Mob Spawners",
+   "fileID": 2893318,
+   "projectID": 321663,
+   "required": true
+  },
+  {
+   "desc": "Patchouli",
+   "fileID": 2945108,
+   "projectID": 306770,
+   "required": true
+  },
+  {
+   "desc": "AutoRegLib",
+   "fileID": 2911830,
+   "projectID": 250363,
+   "required": true
+  },
+  {
+   "desc": "FAB Library",
+   "fileID": 2933566,
+   "projectID": 375509,
+   "required": true
+  },
+  {
+   "desc": "CoFH Core",
+   "fileID": 2935185,
+   "projectID": 69162,
+   "required": true
+  },
+  {
+   "desc": "Phosphor (Forge)",
+   "fileID": 2919811,
+   "projectID": 318255,
+   "required": true
+  },
+  {
+   "desc": "Crafting Tweaks",
+   "fileID": 2863719,
+   "projectID": 233071,
+   "required": true
+  },
+  {
+   "desc": "NetherPortalFix",
+   "fileID": 2943661,
+   "projectID": 241160,
+   "required": true
+  },
+  {
+   "desc": "Travel Bag",
+   "fileID": 2956279,
+   "projectID": 334386,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "javaArgs": "-Xmx6G -XX:+UseG1GC",
+  "modLoaders": [
+   {
+    "id": "forge-31.1.87",
+    "primary": true
+   }
+  ],
+  "version": "1.15.2"
+ },
+ "name": "dizzybuilds.s4",
+ "version": "0.0.1"
+}
