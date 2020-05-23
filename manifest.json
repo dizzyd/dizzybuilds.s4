@@ -20,7 +20,7 @@
   },
   {
    "desc": "natures-aura",
-   "fileID": 2949119,
+   "fileID": 2962928,
    "projectID": 306626,
    "required": true
   },
@@ -56,7 +56,7 @@
   },
   {
    "desc": "Pretty Pipes",
-   "fileID": 2955217,
+   "fileID": 2962252,
    "projectID": 376737,
    "required": true
   },
@@ -122,7 +122,7 @@
   },
   {
    "desc": "Serene Seasons",
-   "fileID": 2936481,
+   "fileID": 2962874,
    "projectID": 291874,
    "required": true
   },
@@ -177,7 +177,7 @@
   },
   {
    "desc": "Immersive Portals (for Forge)",
-   "fileID": 2952940,
+   "fileID": 2959738,
    "projectID": 355440,
    "required": true
   },
@@ -267,7 +267,7 @@
   },
   {
    "desc": "Healing Campfire",
-   "fileID": 2933583,
+   "fileID": 2959022,
    "projectID": 342623,
    "required": true
   },
@@ -291,13 +291,13 @@
   },
   {
    "desc": "Productive Bees",
-   "fileID": 2957473,
+   "fileID": 2958865,
    "projectID": 377897,
    "required": true
   },
   {
    "desc": "Buzzier Bees",
-   "fileID": 2920221,
+   "fileID": 2957924,
    "projectID": 355458,
    "required": true
   },
@@ -321,7 +321,7 @@
   },
   {
    "desc": "FAB Library",
-   "fileID": 2933566,
+   "fileID": 2958989,
    "projectID": 375509,
    "required": true
   },
@@ -357,7 +357,7 @@
   },
   {
    "desc": "Pokecube AIO",
-   "fileID": 2957656,
+   "fileID": 2961771,
    "projectID": 285121,
    "required": true
   },
@@ -375,8 +375,50 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2945789,
+   "fileID": 2961935,
    "projectID": 228525,
+   "required": true
+  },
+  {
+   "desc": "No Hostiles Around Campfire",
+   "fileID": 2959019,
+   "projectID": 347394,
+   "required": true
+  },
+  {
+   "desc": "Wards",
+   "fileID": 2958614,
+   "projectID": 311552,
+   "required": true
+  },
+  {
+   "desc": "Tiny Progressions",
+   "fileID": 2959621,
+   "projectID": 250850,
+   "required": true
+  },
+  {
+   "desc": "XP Tome",
+   "fileID": 2962170,
+   "projectID": 344787,
+   "required": true
+  },
+ {
+   "desc": "PneumaticCraft: Repressurized",
+   "fileID": 2959979,
+   "projectID": 281849,
+   "required": true
+  },
+  {
+   "desc": "DisenchantingForge",
+   "fileID": 2960381,
+   "projectID": 358578,
+   "required": true
+  },
+  {
+   "desc": "Abnormals Core",
+   "fileID": 2957837,
+   "projectID": 382216,
    "required": true
   }
  ],
@@ -386,7 +428,7 @@
   "javaArgs": "-Xmx6G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "forge-31.1.87",
+    "id": "forge-31.2.0",
     "primary": true
    }
   ],
