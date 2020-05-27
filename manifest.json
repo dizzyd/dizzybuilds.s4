@@ -92,7 +92,7 @@
   },
   {
    "desc": "Refined Storage",
-   "fileID": 2943760,
+   "fileID": 2966220,
    "projectID": 243076,
    "required": true
   },
@@ -118,12 +118,6 @@
    "desc": "The One Probe",
    "fileID": 2913861,
    "projectID": 245211,
-   "required": true
-  },
-  {
-   "desc": "Serene Seasons",
-   "fileID": 2962874,
-   "projectID": 291874,
    "required": true
   },
   {
@@ -356,12 +350,6 @@
    "required": true
   },
   {
-   "desc": "Pokecube AIO",
-   "fileID": 2961771,
-   "projectID": 285121,
-   "required": true
-  },
-  {
    "desc": "Botany Pots",
    "fileID": 2939783,
    "projectID": 353928,
@@ -392,26 +380,20 @@
    "required": true
   },
   {
-   "desc": "Tiny Progressions",
-   "fileID": 2959621,
-   "projectID": 250850,
-   "required": true
-  },
-  {
    "desc": "XP Tome",
    "fileID": 2962170,
    "projectID": 344787,
    "required": true
   },
- {
+  {
    "desc": "PneumaticCraft: Repressurized",
-   "fileID": 2959979,
+   "fileID": 2965391,
    "projectID": 281849,
    "required": true
   },
   {
    "desc": "DisenchantingForge",
-   "fileID": 2960381,
+   "fileID": 2965139,
    "projectID": 358578,
    "required": true
   },
@@ -419,6 +401,18 @@
    "desc": "Abnormals Core",
    "fileID": 2957837,
    "projectID": 382216,
+   "required": true
+  },
+  {
+   "desc": "Charm",
+   "fileID": 2939810,
+   "projectID": 318872,
+   "required": true
+  },
+  {
+   "desc": "Quark Oddities",
+   "fileID": 2914445,
+   "projectID": 301051,
    "required": true
   }
  ],
