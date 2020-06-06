@@ -16,7 +16,8 @@
    "desc": "reauth",
    "fileID": 2950766,
    "projectID": 237701,
-   "required": true
+   "required": true,
+   "clientOnly": true
   },
   {
    "desc": "natures-aura",
@@ -431,7 +432,8 @@
    "desc": "Giselbaer's Durability Viewer",
    "fileID": 2946473,
    "projectID": 262146,
-   "required": true
+   "required": true,
+   "clientOnly": true
   },
   {
    "desc": "Extra Boats",
