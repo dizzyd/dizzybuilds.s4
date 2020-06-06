@@ -7,6 +7,7 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "controlling",
    "fileID": 2929451,
    "projectID": 250398,
@@ -249,12 +250,6 @@
    "required": true
   },
   {
-   "desc": "Healing Campfire",
-   "fileID": 2959022,
-   "projectID": 342623,
-   "required": true
-  },
-  {
    "desc": "Venture",
    "fileID": 2931676,
    "projectID": 376300,
@@ -424,12 +419,6 @@
    "required": true
   },
   {
-   "desc": "Refined Pipes",
-   "fileID": 2968353,
-   "projectID": 370696,
-   "required": true
-  },
-  {
    "desc": "Gauges and Switches",
    "fileID": 2958210,
    "projectID": 296686,
@@ -457,6 +446,12 @@
    "desc": "Essentials",
    "fileID": 2968815,
    "projectID": 293752,
+   "required": true
+  },
+  {
+   "desc": "Modular Routers",
+   "fileID": 2954952,
+   "projectID": 250294,
    "required": true
   }
  ],
