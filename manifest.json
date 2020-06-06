@@ -20,7 +20,7 @@
   },
   {
    "desc": "natures-aura",
-   "fileID": 2962928,
+   "fileID": 2968257,
    "projectID": 306626,
    "required": true
   },
@@ -38,7 +38,7 @@
   },
   {
    "desc": "engineers-decor",
-   "fileID": 2952339,
+   "fileID": 2968300,
    "projectID": 313866,
    "required": true
   },
@@ -56,13 +56,13 @@
   },
   {
    "desc": "Pretty Pipes",
-   "fileID": 2962252,
+   "fileID": 2967436,
    "projectID": 376737,
    "required": true
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2956365,
+   "fileID": 2972200,
    "projectID": 243707,
    "required": true
   },
@@ -74,7 +74,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2956472,
+   "fileID": 2973684,
    "projectID": 243121,
    "required": true
   },
@@ -116,7 +116,7 @@
   },
   {
    "desc": "The One Probe",
-   "fileID": 2913861,
+   "fileID": 2971388,
    "projectID": 245211,
    "required": true
   },
@@ -171,13 +171,13 @@
   },
   {
    "desc": "Immersive Portals (for Forge)",
-   "fileID": 2959738,
+   "fileID": 2966753,
    "projectID": 355440,
    "required": true
   },
   {
    "desc": "StepUp",
-   "fileID": 2952432,
+   "fileID": 2967302,
    "projectID": 239236,
    "required": true
   },
@@ -279,25 +279,25 @@
   },
   {
    "desc": "Respawnable Pets",
-   "fileID": 2925420,
+   "fileID": 2970300,
    "projectID": 319582,
    "required": true
   },
   {
    "desc": "Productive Bees",
-   "fileID": 2958865,
+   "fileID": 2972913,
    "projectID": 377897,
    "required": true
   },
   {
    "desc": "Buzzier Bees",
-   "fileID": 2957924,
+   "fileID": 2970005,
    "projectID": 355458,
    "required": true
   },
   {
    "desc": "Enhanced Mob Spawners",
-   "fileID": 2893318,
+   "fileID": 2970203,
    "projectID": 321663,
    "required": true
   },
@@ -363,7 +363,7 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2961935,
+   "fileID": 2965233,
    "projectID": 228525,
    "required": true
   },
@@ -387,7 +387,7 @@
   },
   {
    "desc": "PneumaticCraft: Repressurized",
-   "fileID": 2965391,
+   "fileID": 2970088,
    "projectID": 281849,
    "required": true
   },
@@ -399,13 +399,13 @@
   },
   {
    "desc": "Abnormals Core",
-   "fileID": 2957837,
+   "fileID": 2969102,
    "projectID": 382216,
    "required": true
   },
   {
    "desc": "Charm",
-   "fileID": 2939810,
+   "fileID": 2973470,
    "projectID": 318872,
    "required": true
   },
@@ -413,6 +413,48 @@
    "desc": "Quark Oddities",
    "fileID": 2914445,
    "projectID": 301051,
+   "required": true
+  },
+  {
+   "desc": "Additional Lights",
+   "fileID": 2973653,
+   "projectID": 384991,
+   "required": true
+  },
+  {
+   "desc": "Towers Of The Wild",
+   "fileID": 2972885,
+   "projectID": 386415,
+   "required": true
+  },
+  {
+   "desc": "Giselbaer's Durability Viewer",
+   "fileID": 2946473,
+   "projectID": 262146,
+   "required": true
+  },
+  {
+   "desc": "Extra Boats",
+   "fileID": 2970337,
+   "projectID": 337396,
+   "required": true
+  },
+  {
+   "desc": "TravelGates Mod",
+   "fileID": 2970492,
+   "projectID": 384076,
+   "required": true
+  },
+  {
+   "desc": "Refined Pipes",
+   "fileID": 2968353,
+   "projectID": 370696,
+   "required": true
+  },
+  {
+   "desc": "Gauges and Switches",
+   "fileID": 2958210,
+   "projectID": 296686,
    "required": true
   }
  ],
