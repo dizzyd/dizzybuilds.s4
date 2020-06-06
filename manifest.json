@@ -13,11 +13,11 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "reauth",
    "fileID": 2950766,
    "projectID": 237701,
-   "required": true,
-   "clientOnly": true
+   "required": true
   },
   {
    "desc": "natures-aura",
@@ -98,12 +98,6 @@
    "required": true
   },
   {
-   "desc": "Torchmaster",
-   "fileID": 2873677,
-   "projectID": 254268,
-   "required": true
-  },
-  {
    "desc": "Nature's Compass",
    "fileID": 2893530,
    "projectID": 252848,
@@ -180,12 +174,6 @@
    "desc": "StepUp",
    "fileID": 2967302,
    "projectID": 239236,
-   "required": true
-  },
-  {
-   "desc": "Lightest Lamps",
-   "fileID": 2941185,
-   "projectID": 325716,
    "required": true
   },
   {
@@ -291,12 +279,6 @@
    "required": true
   },
   {
-   "desc": "Buzzier Bees",
-   "fileID": 2970005,
-   "projectID": 355458,
-   "required": true
-  },
-  {
    "desc": "Enhanced Mob Spawners",
    "fileID": 2970203,
    "projectID": 321663,
@@ -318,12 +300,6 @@
    "desc": "FAB Library",
    "fileID": 2958989,
    "projectID": 375509,
-   "required": true
-  },
-  {
-   "desc": "CoFH Core",
-   "fileID": 2935185,
-   "projectID": 69162,
    "required": true
   },
   {
@@ -429,11 +405,11 @@
    "required": true
   },
   {
+   "clientOnly": true,
    "desc": "Giselbaer's Durability Viewer",
    "fileID": 2946473,
    "projectID": 262146,
-   "required": true,
-   "clientOnly": true
+   "required": true
   },
   {
    "desc": "Extra Boats",
@@ -457,6 +433,30 @@
    "desc": "Gauges and Switches",
    "fileID": 2958210,
    "projectID": 296686,
+   "required": true
+  },
+  {
+   "desc": "Large Ore Deposits",
+   "fileID": 2941219,
+   "projectID": 318833,
+   "required": true
+  },
+  {
+   "desc": "ForgeEndertech",
+   "fileID": 2951973,
+   "projectID": 244844,
+   "required": true
+  },
+  {
+   "desc": "Valhelsia Structures",
+   "fileID": 2972754,
+   "projectID": 347488,
+   "required": true
+  },
+  {
+   "desc": "Essentials",
+   "fileID": 2968815,
+   "projectID": 293752,
    "required": true
   }
  ],
