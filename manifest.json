@@ -160,18 +160,6 @@
    "required": true
   },
   {
-   "desc": "MixinBootstrap",
-   "fileID": 2939224,
-   "projectID": 357178,
-   "required": true
-  },
-  {
-   "desc": "Immersive Portals (for Forge)",
-   "fileID": 2966753,
-   "projectID": 355440,
-   "required": true
-  },
-  {
    "desc": "StepUp",
    "fileID": 2967302,
    "projectID": 239236,
