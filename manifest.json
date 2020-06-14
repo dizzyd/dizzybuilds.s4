@@ -40,7 +40,7 @@
   },
   {
    "desc": "engineers-decor",
-   "fileID": 2968300,
+   "fileID": 2979852,
    "projectID": 313866,
    "required": true
   },
@@ -76,7 +76,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2973684,
+   "fileID": 2976581,
    "projectID": 243121,
    "required": true
   },
@@ -130,7 +130,7 @@
   },
   {
    "desc": "Nether Portal Spread",
-   "fileID": 2906394,
+   "fileID": 2978409,
    "projectID": 342097,
    "required": true
   },
@@ -257,7 +257,7 @@
   },
   {
    "desc": "Productive Bees",
-   "fileID": 2972913,
+   "fileID": 2974033,
    "projectID": 377897,
    "required": true
   },
@@ -269,7 +269,7 @@
   },
   {
    "desc": "Patchouli",
-   "fileID": 2945108,
+   "fileID": 2979277,
    "projectID": 306770,
    "required": true
   },
@@ -329,7 +329,7 @@
   },
   {
    "desc": "No Hostiles Around Campfire",
-   "fileID": 2959019,
+   "fileID": 2976823,
    "projectID": 347394,
    "required": true
   },
@@ -359,7 +359,7 @@
   },
   {
    "desc": "Abnormals Core",
-   "fileID": 2969102,
+   "fileID": 2980113,
    "projectID": 382216,
    "required": true
   },
@@ -420,7 +420,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2951973,
+   "fileID": 2979818,
    "projectID": 244844,
    "required": true
   },
@@ -444,8 +444,14 @@
   },
   {
    "desc": "Create",
-   "fileID": 2976507,
+   "fileID": 2979593,
    "projectID": 328085,
+   "required": true
+  },
+  {
+   "desc": "More Red",
+   "fileID": 2972073,
+   "projectID": 387638,
    "required": true
   }
  ],
