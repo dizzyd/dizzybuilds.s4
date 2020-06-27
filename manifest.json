@@ -2,14 +2,14 @@
  "files": [
   {
    "desc": "jei",
-   "fileID": 2944279,
+   "fileID": 2988823,
    "projectID": 238222,
    "required": true
   },
   {
    "clientOnly": true,
    "desc": "controlling",
-   "fileID": 2929451,
+   "fileID": 2988965,
    "projectID": 250398,
    "required": true
   },
@@ -28,19 +28,19 @@
   },
   {
    "desc": "colossal-chests",
-   "fileID": 2952261,
+   "fileID": 2987735,
    "projectID": 237875,
    "required": true
   },
   {
    "desc": "cyclops-core",
-   "fileID": 2930009,
+   "fileID": 2987659,
    "projectID": 232758,
    "required": true
   },
   {
    "desc": "engineers-decor",
-   "fileID": 2968300,
+   "fileID": 2985258,
    "projectID": 313866,
    "required": true
   },
@@ -64,7 +64,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2972200,
+   "fileID": 2980320,
    "projectID": 243707,
    "required": true
   },
@@ -76,7 +76,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2976581,
+   "fileID": 2980651,
    "projectID": 243121,
    "required": true
   },
@@ -94,7 +94,7 @@
   },
   {
    "desc": "Refined Storage",
-   "fileID": 2966220,
+   "fileID": 2989417,
    "projectID": 243076,
    "required": true
   },
@@ -106,13 +106,13 @@
   },
   {
    "desc": "Comforts",
-   "fileID": 2946845,
+   "fileID": 2980590,
    "projectID": 276951,
    "required": true
   },
   {
    "desc": "The One Probe",
-   "fileID": 2971388,
+   "fileID": 2980534,
    "projectID": 245211,
    "required": true
   },
@@ -130,7 +130,7 @@
   },
   {
    "desc": "Nether Portal Spread",
-   "fileID": 2978409,
+   "fileID": 2984317,
    "projectID": 342097,
    "required": true
   },
@@ -221,7 +221,7 @@
   },
   {
    "desc": "Double Doors",
-   "fileID": 2926095,
+   "fileID": 2980264,
    "projectID": 348831,
    "required": true
   },
@@ -251,13 +251,13 @@
   },
   {
    "desc": "Respawnable Pets",
-   "fileID": 2970300,
+   "fileID": 2983855,
    "projectID": 319582,
    "required": true
   },
   {
    "desc": "Productive Bees",
-   "fileID": 2974033,
+   "fileID": 2981676,
    "projectID": 377897,
    "required": true
   },
@@ -287,7 +287,7 @@
   },
   {
    "desc": "Crafting Tweaks",
-   "fileID": 2863719,
+   "fileID": 2986639,
    "projectID": 233071,
    "required": true
   },
@@ -311,7 +311,7 @@
   },
   {
    "desc": "Botany Pots",
-   "fileID": 2939783,
+   "fileID": 2987284,
    "projectID": 353928,
    "required": true
   },
@@ -347,7 +347,7 @@
   },
   {
    "desc": "PneumaticCraft: Repressurized",
-   "fileID": 2970088,
+   "fileID": 2989240,
    "projectID": 281849,
    "required": true
   },
@@ -383,7 +383,7 @@
   },
   {
    "desc": "Towers Of The Wild",
-   "fileID": 2972885,
+   "fileID": 2981445,
    "projectID": 386415,
    "required": true
   },
@@ -432,13 +432,13 @@
   },
   {
    "desc": "Essentials",
-   "fileID": 2968815,
+   "fileID": 2989725,
    "projectID": 293752,
    "required": true
   },
   {
    "desc": "Modular Routers",
-   "fileID": 2954952,
+   "fileID": 2985722,
    "projectID": 250294,
    "required": true
   },
@@ -450,14 +450,26 @@
   },
   {
    "desc": "More Red",
-   "fileID": 2972073,
+   "fileID": 2986206,
    "projectID": 387638,
    "required": true
   },
   {
    "desc": "Collective",
-   "fileID": 2980083,
+   "fileID": 2988703,
    "projectID": 342584,
+   "required": true
+  },
+  {
+   "desc": "WorldEdit",
+   "fileID": 2873556,
+   "projectID": 225608,
+   "required": true
+  },
+  {
+   "desc": "Paper Books",
+   "fileID": 2976424,
+   "projectID": 348756,
    "required": true
   }
  ],
@@ -467,7 +479,7 @@
   "javaArgs": "-Xmx6G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "forge-31.2.0",
+    "id": "forge-31.2.20",
     "primary": true
    }
   ],
